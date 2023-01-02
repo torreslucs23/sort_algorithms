@@ -35,6 +35,7 @@ void heapify(int elementos[], int i, int tamanho){
 void heapsort(int elementos[], int tamanho){
 
     //organiza o vetor no formato de heap
+    // dividimos o indice por dois pois o resto sao folhas
     for (int i = tamanho / 2 - 1; i >= 0; i--){
         heapify(elementos, i, tamanho);
     } 
