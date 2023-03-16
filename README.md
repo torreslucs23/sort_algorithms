@@ -1,3 +1,4 @@
-# heapsort-cpp
+# Sort Algorithms
 
-Programa que implementa estrutura de dados heap e metodo de ordenacao heapsort
+Here is a mini-project that i used for improvise my algorithm skills. I will post some sort algos in different languanges!!!
+
